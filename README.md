@@ -1,7 +1,7 @@
 djangocms-picture
 =================
 
-A picture plugin for django CMS.
+A picture plugin for django CMS. This fork features a slight modification for Twitter Bootstrap to add the "img-responsive" css class if desired. 
 
 
 Installation
